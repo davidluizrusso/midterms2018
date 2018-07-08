@@ -1,0 +1,15 @@
+---
+title: "2018 Midterms Analysis"
+output: html_notebook
+---
+
+```{r load_packages, message=FALSE}
+library(tidyverse)
+library(purrrlyr)
+library(data.table)
+library(googlesheets)
+```
+
+
+
+
