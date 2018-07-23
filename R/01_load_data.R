@@ -26,9 +26,9 @@ governor <- mt18 %>%
 state_leg <- mt18 %>%
   gs_read(ws = "State Legislative Chambers")
 
-# 04 -------------------- Write data to disk
+### 04 -------------------- Write data to disk
 data.table::fwrite(us_senate, paste(raw_data, 'us_senate_raw.csv', sep = "/"))
-data.table::fwrite(us_house, paste(raw_data, 'us_senate_raw.csv', sep = "/"))
-data.table::fwrite(governor, paste(raw_data, 'us_senate_raw.csv', sep = "/"))
-data.table::fwrite(state_leg, paste(raw_data, 'us_senate_raw.csv', sep = "/"))
+data.table::fwrite(us_house, paste(raw_data, 'us_house_raw.csv', sep = "/"))
+data.table::fwrite(governor, paste(raw_data, 'governor_raw.csv', sep = "/"))
+data.table::fwrite(state_leg, paste(raw_data, 'state_legislative_chambers_raw.csv', sep = "/"))
 

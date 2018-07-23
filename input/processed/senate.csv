@@ -1,0 +1,36 @@
+State,Polls Close (PST),Incumbent,Primary,Democratic Candidate,Republican Candidate,Tyler's Predictions,David's Predictions,sort_name,party
+Arizona,6:00 PM,Flake (Open),August 28,"","",d,d,Flake,R
+California,8:00 PM,Feinstein,"",Feinstein,De León (D),d,d,Feinstein,D
+Connecticut,5:00 PM,Murphy,August 14,"","",d,d,Murphy,D
+Delaware,5:00 PM,Carper,September 6,"","",d,d,Carper,D
+Florida,4:00 PM (5:00 PM),Nelson,August 28,"","",d,r,Nelson,D
+Hawaii,8:00 PM,Hirono,August 11,"","",d,d,Hirono,D
+Indiana,3:00 PM (4:00 PM),Donnelly,"",Donnelly,Braun,d,d,Donnelly,D
+Maine,5:00 PM,King,"",King (I),Brakey,d,d,King,ID
+Maryland,5:00 PM,Cardin,"",Cardin,Campbell,d,d,Cardin,D
+Massachusetts,5:00 PM,Warren,September 4,"","",d,d,Warren,D
+Michigan,5:00 PM (6:00 PM),Stabenow,August 7,"","",d,d,Stabenow,D
+Minnesota-1,6:00 PM,Klobuchar,August 14,"","",d,d,Klobuchar,D
+Minnesota-2,6:00 PM,Smith,August 14,"","",d,d,Smith,D
+Mississippi-1,5:00 PM,Wicker,"",Baria,Wicker,r,r,Wicker,R
+Mississippi-2,5:00 PM,Cochran (Open),NOV SPEC. ELECT.,"","",r,r,Cochran,R
+Missouri,5:00 PM,McCaskill,August 7,"","",d,d,McCaskill,D
+Montana,7:00 PM,Tester,"",Tester,Rosendale,d,d,Tester,D
+Nebraska,6:00 PM,Fischer,"",Raybould,Fischer,r,r,Fischer,R
+Nevada,7:00 PM,Heller,"",Rosen,Heller,d,d,Heller,R
+New Jersey,5:00 PM,Menendez,"",Menendez,Hugin,d,d,Menendez,D
+New Mexico,6:00 PM,Heinrich,"",Heinrich,Rich,d,d,Heinrich,D
+New York,6:00 PM,Gillibrand,"",Gillibrand,Farley,d,d,Gillibrand,D
+North Dakota,6:00 PM (7:00 PM),Heitkamp,"",Heitkamp,Cramer,d,r,Heitkamp,D
+Ohio,4:30 PM,Brown,"",Brown,Renacci,d,d,Brown,D
+Pennsylvania,5:00 PM,Casey,"",Casey,Barletta,d,d,Casey,D
+Rhode Island,5:00 PM,Whitehouse,September 12,"","",d,d,Whitehouse,D
+Tennessee,5:00 PM,Corker (Open),August 2,"","",d,d,Corker,R
+Texas,5:00 PM (6:00 PM),Cruz,"",O'Rourke,Cruz,r,r,Cruz,R
+Utah,7:00 PM,Hatch (Open),"",Wilson,Romney,r,r,Hatch,R
+Vermont,4:00 PM,Sanders,August 14,"","",d,d,Sanders,ID
+Virginia,4:00 PM,Kaine,"",Kaine,Stewart,d,d,Kaine,D
+Washington,8:00 PM,Cantwell,August 7,"","",d,d,Cantwell,D
+West Virginia,4:30 PM,Manchin,"",Manchin,Morrisey,d,d,Manchin,D
+Wisconsin,"",Baldwin,August 14,"","",d,d,Baldwin,D
+Wyoming,"",Barrasso,August 21,"","",r,r,Barrasso,R
