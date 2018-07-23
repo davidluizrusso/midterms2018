@@ -13,16 +13,16 @@ mysheets <- googlesheets::gs_ls()
 mt18 <- gs_title("2018 Election Predictions")
 
 us_senate <- mt18 %>%
-  gs_read(ws = "us senate")
+  gs_read(ws = "U.S. Senate Races")
 
 us_house <- mt18 %>%
-  gs_read(ws = "us house")
+  gs_read(ws = "U.S. House Races")
 
 governor <- mt18 %>%
-  gs_read(ws = "gubernatorial")
+  gs_read(ws = "Gubernatorial Races")
 
 state_leg <- mt18 %>%
-  gs_read(ws = "state legislative chambers")
+  gs_read(ws = "State Legislative Chambers")
 
 # 03 -------------------- create new columns for each sheet to help with analysis
 
